@@ -1,71 +1,54 @@
-# Getting Started with Create React App
+# Pokemon API
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Survey
 
-## Available Scripts
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/alexfarias1974/pokemon-api-alexfarias1974-outbox/blob/main/LICENCE)
 
-In the project directory, you can run:
+## Sobre o projeto
 
-### `yarn start`
+https://pokemon-api-alexfarias1974-outbox.vercel.app/
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Este projeto feito em React consome a API do Pokemon e trás funções como lista de todos os Pokemons com paginação e campo de busca, bem como a possibilidade de marcar seus Pokemons favoritos com um coração.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Create React App
 
-### `yarn test`
+Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Scripts Disponíveis
 
-### `yarn build`
+No diretório do projeto, você pode executar:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```bash
+yarn ou yarn install
+```
+Instala localmente as bibliotecas necessárias para executar corretamente a aplicação.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+yarn start
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Executa o aplicativo no modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para visualizar no seu browser.
 
-### `yarn eject`
+A página será recarregada quando você fizer alterações.\
+Você também pode ver erros de lint no console.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Layout
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![WEB](https://github.com/alexfarias1974/pokemon-api-alexfarias1974-outbox/blob/main/pokemon-api.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Deploy
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+O deploy da aplicação foi feito com o Vercel.\
+https://pokemon-api-alexfarias1974-outbox.vercel.app/
 
-## Learn More
+## Stacks utilizadas
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- HTML
+- CSS
+- React
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Autor
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# pokemon-api-alexfarias1974-outbox
+Alexandre Farias\
+www.linkedin.com/in/alexandre-farias-06b78362
